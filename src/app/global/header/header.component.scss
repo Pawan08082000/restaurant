@@ -1,0 +1,42 @@
+.logo {
+  padding: 0px 5px;
+  font-size: 20px;
+}
+mat-toolbar,
+mat-toolbar-row {
+  background: linear-gradient(to right, #f43b48 0%, #453a94 100%);
+  color: #fff;
+}
+.avtar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.mat-menu-content {
+  background-color: white;
+}
+.menu {
+  color: black;
+  background-color: white;
+}
+.menu:hover {
+  background-color: gray;
+}
+
+a {
+  color: white;
+  text-decoration-line: unset;
+}
+
+.brand {
+  display: inline;
+  max-width: 30% !important;
+  margin-right: 0% !important;
+}
+mat-toolbar {
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;
+}

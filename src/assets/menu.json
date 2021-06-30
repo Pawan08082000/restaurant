@@ -1,0 +1,337 @@
+[
+  {
+    "Category": "AntiPasti",
+    "Title": "Bruschetta",
+    "Price": "$17.00",
+    "Description": "Tomato Reduction base, Mozzarella, Torn Basil, Olive Oil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Insalata Rucola",
+    "Price": "$12.00",
+    "Description": "Tuscan Fried Chicken, Spicy Honey Butter",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Caprese",
+    "Price": "$23.00",
+    "Description": "Escarole, Cannellini Beans, Meatballs, Parmigiano",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Carpacio",
+    "Price": "$15.00",
+    "Description": "Prosciutto ham, Baby Spinach, Garlic, Gorgonzola, Olives",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Vitello Tonato",
+    "Price": "$23.00",
+    "Description": "Mushrooms, Ruccola, Pomodoro, Mozzarella, Olives",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Crema di Pomodoro",
+    "Price": "$19.00",
+    "Description": "Mix of mussels, Prawns, Octopus, Mozzarella, Basil, Red Souce",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "AntiPasti Mixed",
+    "Price": "$17.00",
+    "Description": "Mixed Greens, peppers, Anchoivies, Mozzarella, Artichokes",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "AntiPasti",
+    "Title": "Pizza Pane",
+    "Price": "$14.00",
+    "Description": "Baby Kale, Apple,Cherry, Mozzarella, Pistachios, Basil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/456.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Sogliola al Forno",
+    "Price": "$19.00",
+    "Description": "Red Chilli Flakes, Fennel Seeds, Carrot, Celery, Onion",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Linguine con Granchio",
+    "Price": "$23.00",
+    "Description": "Mushrooms, Ruccola, Pomodoro, Mozzarella, Olives",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Gallo Cedrone",
+    "Price": "$17.00",
+    "Description": "Olive Oil, Cinnamon, Saffron, Drumsticks, Tomatoes",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Malfatti con Fagiano",
+    "Price": "$13.00",
+    "Description": "Bulb of Fennel, Peas, Flour, Eggs, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Fritto Misto",
+    "Price": "$17.00",
+    "Description": "Fennel Seeds, Butternut Squash, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Risotto Verde",
+    "Price": "$25.00",
+    "Description": "Fresh Basil, Beans, Onion, Extra Virgin Olive Oil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Insalatone",
+    "Title": "Panzotti",
+    "Price": "$15.00",
+    "Description": "Onion, Carrot, Stick of Celery, Unsalted Butter, Beef",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/890.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "AntiPasti Mixed",
+    "Price": "$23.00",
+    "Description": "Mixed Greens, peppers, Anchoivies, Mozzarella, Artichokes",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "Bruschetta",
+    "Price": "$17.00",
+    "Description": "Tomato Reduction base, Mozzarella, Torn Basil, Olive Oil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "Caprese",
+    "Price": "$19.00",
+    "Description": "Escarole, Cannellini Beans, Meatballs, Parmigiano",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "Carpacio",
+    "Price": "$16.00",
+    "Description": "Prosciutto ham, Baby Spinach, Garlic, Gorgonzola, Olives",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "Crema di Pomodoro",
+    "Price": "$20.00",
+    "Description": "Mix of mussels, Prawns, Octopus, Mozzarella, Basil, Red Souce",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pasta",
+    "Title": "Fritto Misto",
+    "Price": "$18.00",
+    "Description": "Fennel Seeds, Butternut Squash, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+
+  {
+    "Category": "Pasta",
+    "Title": "Gallo Cedrone",
+    "Price": "$23.00",
+    "Description": "Tuscan Fried Chicken, Spicy Honey Butter",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/345.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Stinco di Vitello",
+    "Price": "$19.00",
+    "Description": "Red Chilli Flakes, Fennel Seeds, Carrot, Celery, Onion",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Linguine con Granchio",
+    "Price": "$23.00",
+    "Description": "Mushrooms, Ruccola, Pomodoro, Mozzarella, Olives",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Gallo Cedrone",
+    "Price": "$17.00",
+    "Description": "Olive Oil, Cinnamon, Saffron, Drumsticks, Tomatoes",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Malfatti con Fagiano",
+    "Price": "$12.00",
+    "Description": "Bulb of Fennel, Peas, Flour, Eggs, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Fritto Misto",
+    "Price": "$18.00",
+    "Description": "Fennel Seeds, Butternut Squash, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Risotto Verde",
+    "Price": "$25.00",
+    "Description": "Fresh Basil, Beans, Onion, Extra Virgin Olive Oil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+  {
+    "Category": "Pizza",
+    "Title": "Sogliola al Forno",
+    "Price": "$12.00",
+    "Description": "Red Chilli Flakes, Fennel Seeds, Carrot, Celery, Onion",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/234.jpg"
+  },
+
+  {
+    "Category": "Wine",
+    "Title": "Caprese",
+    "Price": "$23.00",
+    "Description": "Escarole, Cannellini Beans, Meatballs, Parmigiano",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Malfatti con Fagiano",
+    "Price": "$12.00",
+    "Description": "Bulb of Fennel, Peas, Flour, Eggs, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Fritto Misto",
+    "Price": "$18.00",
+    "Description": "Fennel Seeds, Butternut Squash, Chicken stock",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Gallo Cedrone",
+    "Price": "$17.00",
+    "Description": "Olive Oil, Cinnamon, Saffron, Drumsticks, Tomatoes",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Risotto Verde",
+    "Price": "$25.00",
+    "Description": "Fresh Basil, Beans, Onion, Extra Virgin Olive Oil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Pizza Pane",
+    "Price": "$15.00",
+    "Description": "Red Chilli Flakes, Fennel Seeds, Carrot, Celery, Onion",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Linguine con Granchio",
+    "Price": "$17.00",
+    "Description": "Baby Kale, Apple,Cherry, Mozzarella, Pistachios, Basil",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  },
+  {
+    "Category": "Wine",
+    "Title": "Stinco di Vitello",
+    "Price": "$19.00",
+    "Description": "Red Chilli Flakes, Fennel Seeds, Carrot, Celery, Onion",
+    "Nutritions": "",
+    "Ingredients": "",
+    "Image": "../../../assets/dishes/123.jpg"
+  }
+]

@@ -1,0 +1,45 @@
+<div fxLayout="column" fxLayoutAlign="space-between center">
+  <div *ngIf="this.orders.length > 0">
+    <h2 *ngFor="let price of prices">Price : ${{ price }}</h2>
+    <hr />
+    <h2>TotlaPrice : ${{ totlaPrice() }}</h2>
+  </div>
+  <button
+    *ngIf="this.orders.length > 0"
+    mat-raised-button
+    color="primary"
+    routerLink="/order/place"
+  >
+    Place Order
+  </button>
+</div>
+
+<div fxLayout="row wrap" fxLayoutGap="16px grid" *ngIf="this.orders != []">
+  <div
+    fxFlex="25%"
+    fxFlex.xs="100%"
+    fxFlex.sm="33%"
+    *ngFor="let dish of this.orders"
+  >
+    <mat-card class="mat-elevation-z4">
+      <mat-card-header>
+        <mat-card-title>{{ dish.Title }}</mat-card-title>
+      </mat-card-header>
+      <h4>Category : {{ dish.Category }}</h4>
+      <img mat-card-image src="{{ dish.Image }}" />
+      <mat-card-content>
+        <p>
+          {{ dish.Description }}
+        </p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button>{{ dish.Price }}</button>
+        <!-- <button mat-button (click)="selectItem(dish)">select</button> -->
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
+
+<h1 *ngIf="this.orders.length < 1">
+  NO Item Is Selected. Please select the Item!
+</h1>
